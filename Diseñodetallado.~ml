@@ -2574,7 +2574,7 @@
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedDiagrams[1]" type="UMLClassDiagram" guid="/4jeq/tyskiUv2rpU6FwTwAA">
-<XPD:ATTR name="Name" type="string">DiagramClasesGestionarEquipoDesarrollo</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">ClassDiagram2</XPD:ATTR>
 <XPD:REF name="DiagramOwner">exiAWe2aCEezxVcjbX/6PgAA</XPD:REF>
 <XPD:OBJ name="DiagramView" type="UMLClassDiagramView" guid="UIgKpXCU60iMhhQmEDAHdAAA">
 <XPD:REF name="Model">/4jeq/tyskiUv2rpU6FwTwAA</XPD:REF>
