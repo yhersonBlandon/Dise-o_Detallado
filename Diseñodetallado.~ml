@@ -2580,29 +2580,35 @@
 <XPD:REF name="Model">/4jeq/tyskiUv2rpU6FwTwAA</XPD:REF>
 <XPD:REF name="Diagram">/4jeq/tyskiUv2rpU6FwTwAA</XPD:REF>
 <XPD:ATTR name="#OwnedViews" type="integer">1</XPD:ATTR>
-<XPD:OBJ name="OwnedViews[0]" type="UMLColObjectView" guid="bk2SQMOsOEaT+bO++VyqWQAA">
+<XPD:OBJ name="OwnedViews[0]" type="UMLClassView" guid="OFh1wVq93UKDzgDnrdYKsQAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">84</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">116</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">186</XPD:ATTR>
-<XPD:ATTR name="Height" type="integer">40</XPD:ATTR>
-<XPD:REF name="Model">4oEpXDR6fU+vG8sSvwAT7AAA</XPD:REF>
-<XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="bunqrurNakGbd0Ip0+mtHgAA">
-<XPD:OBJ name="NameLabel" type="LabelView" guid="vGcbMarDrkm4dsuqu4sZIwAA">
-<XPD:ATTR name="FontStyle" type="integer">4</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">52</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">120</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">228</XPD:ATTR>
+<XPD:ATTR name="Height" type="integer">43</XPD:ATTR>
+<XPD:REF name="Model">wPyaOH/mwUOBBQcQejoJ7wAA</XPD:REF>
+<XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="tgoDghBx0kWXrK8t5o17KwAA">
+<XPD:OBJ name="NameLabel" type="LabelView" guid="97QaaNbC4kuAiJUvXDCVFwAA">
+<XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">FormularioGestionarEquipoDesarrollo</XPD:ATTR>
 </XPD:OBJ>
-<XPD:OBJ name="StereotypeLabel" type="LabelView" guid="TOXg2hcKZUutYA6xmpEOmQAA">
+<XPD:OBJ name="StereotypeLabel" type="LabelView" guid="6en7myihREaU3iHs/dzPAwAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
 </XPD:OBJ>
-<XPD:OBJ name="PropertyLabel" type="LabelView" guid="GQXvR+z2akGi6JbwCoK3jQAA">
+<XPD:OBJ name="PropertyLabel" type="LabelView" guid="BxtTpexyjUCELZa8lDjP3wAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:OBJ name="SlotCompartment" type="UMLSlotCompartmentView" guid="uaTtw8kBF0aka+qYOp3J0QAA">
+<XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="BJDG7huGYUCMGLAt2kf9kQAA">
+<XPD:REF name="Model">wPyaOH/mwUOBBQcQejoJ7wAA</XPD:REF>
+</XPD:OBJ>
+<XPD:OBJ name="OperationCompartment" type="UMLOperationCompartmentView" guid="onplzeVz2USz5H4tlMXyrgAA">
+<XPD:REF name="Model">wPyaOH/mwUOBBQcQejoJ7wAA</XPD:REF>
+</XPD:OBJ>
+<XPD:OBJ name="TemplateParameterCompartment" type="UMLTemplateParameterCompartmentView" guid="yrgCDKJSoUe6pAjh3YonJAAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
-<XPD:REF name="Model">4oEpXDR6fU+vG8sSvwAT7AAA</XPD:REF>
+<XPD:REF name="Model">wPyaOH/mwUOBBQcQejoJ7wAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
 </XPD:OBJ>
@@ -3177,12 +3183,14 @@
 <XPD:REF name="Views[3]">ePp+FiXW/UikDkoUKkhDZgAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:OBJ name="OwnedElements[18]" type="UMLObject" guid="4oEpXDR6fU+vG8sSvwAT7AAA">
+<XPD:OBJ name="OwnedElements[18]" type="UMLClass" guid="wPyaOH/mwUOBBQcQejoJ7wAA">
 <XPD:ATTR name="Name" type="string">FormularioGestionarEquipoDesarrollo</XPD:ATTR>
 <XPD:REF name="Namespace">exiAWe2aCEezxVcjbX/6PgAA</XPD:REF>
-<XPD:ATTR name="#Views" type="integer">2</XPD:ATTR>
-<XPD:REF name="Views[0]">bk2SQMOsOEaT+bO++VyqWQAA</XPD:REF>
-<XPD:REF name="Views[1]">uaTtw8kBF0aka+qYOp3J0QAA</XPD:REF>
+<XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
+<XPD:REF name="Views[0]">OFh1wVq93UKDzgDnrdYKsQAA</XPD:REF>
+<XPD:REF name="Views[1]">BJDG7huGYUCMGLAt2kf9kQAA</XPD:REF>
+<XPD:REF name="Views[2]">onplzeVz2USz5H4tlMXyrgAA</XPD:REF>
+<XPD:REF name="Views[3]">yrgCDKJSoUe6pAjh3YonJAAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
 </XPD:OBJ>
